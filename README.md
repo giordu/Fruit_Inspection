@@ -56,8 +56,3 @@ Il sistema è sviluppato in **Python** e si basa principalmente sulle seguenti l
      - Per avviare l'utimo task (Ispezione kiwi):
          ```bash
            python final_task.py
-  
-        
-         
-  
-      
